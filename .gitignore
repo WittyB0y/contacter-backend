@@ -1,0 +1,8 @@
+/__pychache__
+/.idea
+*.sqlite3
+/venv
+*.env
+*.flake8
+/.pytest_cache
+*.md
